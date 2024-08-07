@@ -5,7 +5,7 @@
 
 "==========================================="
 
-from prosigue.proxi import Prosigue
+from prosigue.command import Prosigue
 
 "==========================================="
 

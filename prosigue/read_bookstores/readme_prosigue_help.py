@@ -174,7 +174,7 @@ translated with google \n\
 \n\
 THE LICENSE IS: Mozilla Public License 2.0 (MPL 2.0) \n\
 \n\
-Distributed library package for python, Version: 1.4 \n\
+Distributed library package for python \n\
 Name: PROSIGUE \n\
 \n\
 Integrated library dependencies:\n\

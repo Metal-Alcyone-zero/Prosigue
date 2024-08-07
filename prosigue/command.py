@@ -25,6 +25,7 @@ class Prosigue:
     def __init__(self, el_code, salida_externa= False):
 
         self.sentencia= el_code
+        self.metaversion= True
 
         if salida_externa == True:
             self.metaversion= False
