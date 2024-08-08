@@ -1,11 +1,13 @@
 
 PROSIGUE
+==============================================
+
+Documentacion
 -----------------------------------------------
 
 - dependencias de librerías:
 
     - multiprocessing
-    - threading
     - time
     - os
 
@@ -24,10 +26,21 @@ PROSIGUE
 Para mas informacion sobre su forma de ejecucion,
 una vez instalada la libreria, ingrese:
 
-from prosigue.readme_prosigue import readme
-readme
+from prosigue.read_bookstores import readme_prosigue_help
 
-la licencia es: Licencia pública de Mozilla versión 2.0
+readme_prosigue_help
 
-la ruta github (debido a la licencia) es: 
-github.com/Metal-Alcyone-zero/Prosigue
+
+La licencia es: Mozilla Public License 2.0 (MPL 2.0)
+
+La ruta github (debido a la licencia) es: 
+https://github.com/Metal-Alcyone-zero/Prosigue
+
+Quizas encuentre informacion en graficos en github.
+
+Todas las versiones: 1.0 - 1.2 - 1.4 - 1.6 - 1.8 - 1.9
+
+La librería prosigue se creó y diseño para que pudiera
+trabajar en conjunto con otro paquete (libreria) llamado consigue
+de cualquier forma es muy fácil de usar para cualquier
+propósito.
